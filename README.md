@@ -64,6 +64,15 @@ Busco constantemente aprender novas tecnologias e evoluir como desenvolvedor, cr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Javascript" 
+    title="Javascrpt"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
 
 
 
