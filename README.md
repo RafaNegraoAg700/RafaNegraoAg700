@@ -66,8 +66,8 @@ Busco constantemente aprender novas tecnologias e evoluir como desenvolvedor, cr
 />
 <img 
     align="left" 
-    alt="Javascript" 
-    title="Javascrpt"
+    alt="JavaScript" 
+    title="JavaScrpt"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
