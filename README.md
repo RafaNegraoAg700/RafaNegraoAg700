@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Rafael Negrão
 
 **`Desenvolvedora FullStack`**
 
