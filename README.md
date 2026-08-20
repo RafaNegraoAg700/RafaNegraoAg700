@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Rafael Negrão Aguirra, tenho 16 anos e sou de Sâo Paulo. Estudante do Ensino Médio Técnico em Desencolvimento de Sistemas na FIAP School, meu interrese é em Back-end e Data Science. Atualmente trabalho com Java, Python, SQL, desenvolvendo projetos e aprimorando minhas habilidades em programação, lógica e análise de dados.
+Me chamo Rafael Negrão Aguirra, tenho 17 anos e sou de Sâo Paulo. Estudante do Ensino Médio Técnico em Desencolvimento de Sistemas na FIAP School, meu interrese é em Back-end e Data Science. Atualmente trabalho com Java, Python, SQL, desenvolvendo projetos e aprimorando minhas habilidades em programação, lógica e análise de dados.
 
 Busco constantemente aprender novas tecnologias e evoluir como desenvolvedor, criando soluções eficientes e adquirindo experiência prática no mundo da tecnologia.
 
