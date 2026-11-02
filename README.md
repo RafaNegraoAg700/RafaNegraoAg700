@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Negrão
+# 🧑‍💻​ Rafael Negrão
 
 **`Desenvolvedora FullStack`**
 
